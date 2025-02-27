@@ -1,7 +1,10 @@
 👋 Hello, I'm Nena!
 
 
-![Profile views](https://komarev.com/ghpvc/?nena03=your-github-username)
+
+
+![Profile views](https://img.shields.io/github/profile/views/nena03?label=Profile%20views&style=flat-square)
+
 
 
 🎓 Software Engineering Student from Serbia
@@ -14,7 +17,11 @@
 
 
 
+
+
 🚀 What I’m working on
+
+
 
 
 🔹 Learning AI, Python, and Machine Learning
@@ -27,7 +34,11 @@
 
 
 
+
+
 🛠️ Languages & Tools
+
+
 
 
 🔹 Programming Languages: C, C++, C#, Python, PHP, JavaScript
@@ -40,7 +51,11 @@
 
 
 
+
+
 🌟 Highlights
+
+
 
 
 🚀 Open-source contributor – Always looking for interesting projects to contribute to.
@@ -53,7 +68,11 @@
 
 
 
+
+
 📫 How to reach me
+
+
 
 
 📧 Email: ndjokic928@gmail.com
@@ -63,7 +82,11 @@
 
 
 
+
+
 📊 My GitHub Stats
+
+
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nena03&layout=compact&theme=radical)
