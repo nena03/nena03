@@ -3,7 +3,8 @@
 
 
 
-![Profile views](https://img.shields.io/github/profile/views/nena03?label=Profile%20views&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=nena03&color=blue)
+
 
 
 
