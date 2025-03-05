@@ -37,8 +37,7 @@
 ---
 
 ## 📊 My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nena03&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nena03&layout=compact&theme=radical)
 
 
 
