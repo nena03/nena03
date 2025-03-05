@@ -37,7 +37,18 @@
 ---
 
 ## 📊 My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nena03&layout=compact&theme=radical&cache_seconds=0)
+
+
+- ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?&style=flat&logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat&logo=python&logoColor=white)
+- ![C](https://img.shields.io/badge/C-%2300599C.svg?&style=flat&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
+- ![C#](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-%2300A4DB.svg?&style=flat&logo=mysql&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=white)
+
 
 
 
